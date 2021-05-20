@@ -1,1 +1,3 @@
-# Lab6
+# Lab 6 - Interactive maps with Folium
+
+This lab uses Folium which is a Python Library built on a javascript library leaflet. This allows the user to build interactive maps straight in Python environment. In this exercise we build a map of Starbucks locations in the Los Angeles County. The data is first read by using Pandas dataframe to get the count of stores in each zip code and to attach it to appropiate geometry for that zip. We have also mapped the unemployment rate for the United States for the year 2020. These libraries are helpful to make interactive maps easily and also change the basemaps, symbologies and other properties of our map. 
